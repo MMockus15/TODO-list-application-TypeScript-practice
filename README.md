@@ -1,1 +1,0 @@
-# TODO-list-application-TypeScript-practice
