@@ -1,4 +1,8 @@
-# New Project
+# TODO-list-application-TypeScript-practice
+
+## Description
+To continue to build my skills and keep up with newer technology, I wanted to try and build a mini project with TypeScript. This TODO list was a great introduction to TypeScript. I had to debug a couple of times in order to work through correctly downloading snowpack, as well as using a # when selecting by ID. I worked through these bugs and was able to get my mini TODO list up and running!
+
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
